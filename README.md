@@ -25,6 +25,6 @@ pip install -r requirements.txt</code></pre>
 </ol>
 
 <h2>📬 Contact</h2>
-<p>Your Name - <a href="https://twitter.com/yourusername">@yourusername</a> - email@example.com</p>
+<p>Your Name - <a href="[https://instagram.com/yourusername](https://www.instagram.com/sarcastic__pandit/)">@yourusername</a> - jai.300012723027@csvtu.ac.in</p>
 
-<p>Project Link: <a href="https://github.com/yourusername/machine-learning-python">https://github.com/yourusername/machine-learning-python</a></p>
+<p>Project Link: <a href="[https://github.com/yourusername/machine-learning-python](https://github.com/Jai-Keshav-Sharma)">https://github.com/yourusername/machine-learning-python</a></p>
